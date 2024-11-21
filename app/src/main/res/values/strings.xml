@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EligibilityApp</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="masukkan_usia">Masukkan Usia</string>
+    <string name="cek_kelayakan">Cek Kelayakan</string>
+    <string name="mohon_isi_semua_field">Mohon isi semua field.</string>
+    <string name="usia_harus_berupa_angka_yang_valid">Usia harus berupa angka yang valid.</string>
+    <string name="informasi_pengguna">Informasi Pengguna</string>
+</resources>
